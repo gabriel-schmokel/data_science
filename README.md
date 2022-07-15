@@ -1,5 +1,5 @@
 # Projetos
-Esse seção contém os meus projetos pessoais de data science, os trabalhos foram separados por áreas, a fim de facilitar a busca do usuário. Aqui você irá encontrar projetos documentados no formato de *notebook* que mostram as minhas competências nos diferentes assuntos. Por favor, sintam-se a vontade para contribuir com os projetos, espero que gostem. 
+Esse seção contém os meus projetos pessoais de data science, os trabalhos foram separados por áreas, a fim de facilitar a busca do usuário. Aqui você irá encontrar projetos documentados no formato de *notebooks* que mostram as minhas competências nos diferentes assuntos. Por favor, sintam-se a vontade para contribuir com os projetos, bem como avaliar, espero que gostem. 
 
 ### Data Visualization
 
