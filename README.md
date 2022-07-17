@@ -20,4 +20,4 @@ Abaixo segue os meus cursos e especializações feitos no campo da ciências de 
 * [Curso Python Avançado - UFRGS](https://github.com/gabriel-schmokel/formacao/tree/master/curso_python_UFRGS)  
 
 
-d
+
