@@ -15,7 +15,7 @@ Esse seção contém os meus projetos pessoais de data science, os trabalhos for
 
 # Formação
 
-Abaixo segue os meus cursos e especializações feitos no campo da ciências de dados. Os hiperlinks direcionam o usuário para os diretórios contidos no resitório **formação**, cada um diretórios contém os materiais elaborados ao longo de cada curso. Por favor, sintam-se a vontade para visualizar a minha evolução, bem como contribuir em qualquer trabalho.
+Abaixo segue os meus cursos e especializações feitos no campo da ciências de dados. Os hiperlinks direcionam o usuário para os diretórios contidos no repositório **formação**, cada um diretórios contém os materiais elaborados ao longo de cada curso. Por favor, sintam-se a vontade para visualizar a minha evolução, bem como contribuir em qualquer trabalho.
 
 * [Curso Python Avançado - UFRGS](https://github.com/gabriel-schmokel/formacao/tree/master/curso_python_UFRGS)  
 * [Formação Cientista de Dados I - UDEMY](https://github.com/gabriel-schmokel/formacao/tree/master/curso_python_UFRGS)  
