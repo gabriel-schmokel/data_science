@@ -18,7 +18,7 @@ Esse seção contém os meus projetos pessoais de data science, os trabalhos for
 Abaixo segue os meus cursos e especializações feitos no campo da ciências de dados. Os hiperlinks direcionam o usuário para os diretórios contidos no repositório **formação**, cada um diretórios contém os materiais elaborados ao longo de cada curso. Por favor, sintam-se a vontade para visualizar a minha evolução, bem como contribuir em qualquer trabalho.
 
 * [Curso Python Avançado - UFRGS](https://github.com/gabriel-schmokel/formacao/tree/master/curso_python_UFRGS)  
-* [Formação Cientista de Dados I - UDEMY](https://github.com/gabriel-schmokel/formacao/tree/master/curso_python_UFRGS)  
+* [Formação Cientista de Dados I - UDEMY](https://github.com/gabriel-schmokel/formacao/tree/master/forma%C3%A7%C3%A3o_cientista_de_dados)  
 * [Linguagem R para Análise de Dados - UDEMY](https://github.com/gabriel-schmokel/formacao/tree/master/linguagem_r_para_analise_de_dados)  
 * [Machine Learning com Python - UDEMY](https://github.com/gabriel-schmokel/formacao/tree/master/curso_python_UFRGS)
 * [Manipulação e Análise de Dados com Pandas - UDEMY](https://github.com/gabriel-schmokel/formacao/tree/master/curso_python_UFRGS) 
