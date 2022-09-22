@@ -1,18 +1,15 @@
 # Projetos
-Esse seção contém os meus projetos pessoais de data science, os trabalhos foram separados por áreas, a fim de facilitar a busca do usuário. Aqui você irá encontrar projetos documentados no formato de *notebook* que mostram as minhas competências nos diferentes assuntos. Por favor, sintam-se a vontade para contribuir com os projetos, espero que gostem. 
+Essa seção contém os meus projetos em ciência de dados, os trabalhos foram separados por áreas, a fim de facilitar a navegação. Aqui você irá encontrar trabalhos documentados no formato de *notebooks* que mostram as minhas competências nos diferentes assuntos, os diretórios de cada seção contém esses arquivos. Por favor, sintam-se a vontade para avaliar, compartilhar ou trocar informações. 
 
-### Data Visualization
 
-### Estatística
+### Análise Estatística dos Dados
 
-### Exploração, Tratamento e Análise
+### Exploração e Tratamento dos Dados
 
-* [Análise dos Dados da Covid-19 nas Regiões do Estado de SP](https://wgnlobroyhlnhs2zymgzxq.on.drv.tw/trabalho/projetos_em_r/01_covid19_SP.html)  
+* [Covid-19 nas Regiões do Estado de SP](https://projetos-gabriel-schmokel.on.drv.tw/trabalho/ET_covid-19_nos_municipios_de_sp.html)
+* [Fatores Clínicos e Laboratoriais de Doenças Cardíacas](https://github.com/gabriel-schmokel/data_science/blob/master/exploracao_tratamento/prever_doen%C3%A7as_cardiacas.ipynb)
+* [Rotatividade de Clientes](https://projetos-gabriel-schmokel.on.drv.tw/trabalho/ET_rotatividade_de_clientes.html)
 
 ### Machine learning
 
-### Séries Temporais
-
-# Formação
-
-Relatar minha formação com os cursos da área.
+* [Modelo_para_Prevenir_Doenças_Cardíacas](https://github.com/gabriel-schmokel/data_science/blob/master/machine_learning/modelo_para_prever_doen%C3%A7as_cardiacas.ipynb)
